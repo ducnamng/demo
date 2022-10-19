@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.css-1bw0nnu-MuiStep-root {
+  padding:30px 8px;
+}
+.css-1bw0nnu-MuiStep-root :hover {
+  cursor: pointer;
+}
